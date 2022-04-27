@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 [![SaphireVert's github stats](https://github-readme-stats.vercel.app/api?username=saphirevert)]
 
 
-Technologies I'm working on
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg">
-[![simpleicon]("https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg")]
+Technologies I'm currently working on
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 <!--START_SECTION:waka-->
 
