@@ -35,7 +35,7 @@ Technologies I'm currently working on :
 <a href="" title="Linux"><img src="images/icons8-linux.gif" height="48px"/></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/icons8-typescript.svg"/></a>
 <a href="https://www.gitlab.com/saphirevert" title="Docker"><img src="images/icon8-docker.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Javascript"><img src="images/javascript.gif" height=48px/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Javascript"><img src="images/icons8-javascript.gif" height=48px/></a>
 <a href="https://www.gitlab.com/saphirevert" title="Gitlab"><img src="images/icons8-gitlab.svg"/></a>
 <a href="https://www.gitlab.com/saphirevert" title="Github"><img src="images/icons8-github.svg"/></a>
 <a href="https://www.gitlab.com/saphirevert" title="Ansible"><img src="images/icons8-ansible.svg"/></a>
