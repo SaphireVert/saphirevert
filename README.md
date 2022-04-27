@@ -21,7 +21,7 @@ Here are some ideas to get you started:
           <!--START_SECTION:waka-->
 
 Technologies I'm working on
-[]("https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg")
+[![simpleicon]("https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg")]
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/adafruit.svg"/>
 
 <!--END_SECTION:waka-->
