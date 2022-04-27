@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Technologies I'm currently working on
 
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
