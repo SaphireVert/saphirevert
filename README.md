@@ -1,5 +1,3 @@
-Currently working at EPFL as an full-stack dev apprentice.
-
 <!--
 **SaphireVert/saphirevert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,25 +12,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![saphirevert-repos][saphirevert-shield]][saphirevert-url]
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&ccolor=66F73A&lines=✨+Hello+everyone!+✨;Welcome+to+my+github+readme!)](https://git.io/typing-svg)
 
-[![SaphireVert's github stats](https://github-readme-stats.vercel.app/api?username=saphirevert)]
+## Whoami
+Hello, my name's Jérôme and I'm currently working at EPFL as a full-stack developper apprentice.
 
+<img src="gifs/typing_on_computer.gif"/>
 
-Technologies I'm currently working on
+## Stats
+Here's some statistics about my github
 
-<a href="https://gitlab.com/" title="GitLab"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+![SaphireVert's github stats](https://github-readme-stats.vercel.app/api?username=saphirevert)
+
+# Technologies
+Technologies I'm currently working on : 
+
+<!-- <a href="https://www.gitlab.com/saphirevert" title="gitlab"><img src="images/gitlab.svg"/></a> -->
+
+<a href="" title="Linux"><img src="images/icons8-linux.gif" height="48px"/></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/icons8-typescript.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Docker"><img src="images/icon8-docker.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Javascript"><img src="images/javascript.gif" height=48px/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Gitlab"><img src="images/icons8-gitlab.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Github"><img src="images/icons8-github.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Ansible"><img src="images/icons8-ansible.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Kubernetes"><img src="images/icons8-kubernetes.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Git"><img src="images/icons8-git.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="React-native"><img src="images/icons8-react-native.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Angular"><img src="images/icons8-angularjs.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Vscode"><img src="images/icons8-vscode.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="MariaDB"><img src="images/icons8-mariadb.svg"/></a>
+<a href="https://www.gitlab.com/saphirevert" title="Nginx"><img src="images/icons8-nginx.svg"/></a>
 
 <!--START_SECTION:waka-->
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/adafruit.svg"/>
-
 <!--END_SECTION:waka-->
+
+
+
+[saphirevert-shield]: https://badgen.net/badge/Github/SaphireVert/green?icon=https://svgshare.com/i/Srf.svg
+[saphirevert-url]: https://github.com/saphirevert/
+
+
+<!-- <a href="https://www.docker.com/" title="Adafruit"><img src="images/adafruit.svg" height="50px" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/gitlab.svg" height="50px" /></a> -->
+
+## Contact me :
+
+<a href="mailto:saaphirevert" > </a>
+<img src="gifs/email.gif">
+<!-- <img src="gifs/dialing_progress.gif"> -->
+
+Thanks for visiting !
+
+![visitor count](https://profile-counter.glitch.me/saphirevert/count.svg)
+
+<img src="gifs/ie.jpg">
