@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVGhde](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 [![SaphireVert's github stats](https://github-readme-stats.vercel.app/api?username=saphirevert)]
           <!--START_SECTION:waka-->
