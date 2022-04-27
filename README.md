@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently working at EPFL as an full-stack dev apprentice.
+
+
 <!--
 **SaphireVert/saphirevert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
