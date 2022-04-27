@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![saphirevert-repos][saphirevert-shield]][saphirevert-url]
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&ccolor=66F73A&lines=✨+Hello+everyone!+✨;Welcome+to+my+github+readme!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=2500&ccolor=66F73A&lines=✨+Hello+everyone!+✨;Welcome+to+my+github+profile+page!)](https://git.io/typing-svg)
 
 ## Whoami
 Hello, my name's Jérôme and I'm currently working at EPFL as a full-stack developper apprentice.
@@ -34,18 +34,18 @@ Technologies I'm currently working on :
 
 <a href="" title="Linux"><img src="images/icons8-linux.gif" height="48px"/></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/icons8-typescript.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Docker"><img src="images/icon8-docker.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Javascript"><img src="images/icons8-javascript.gif" height=48px/></a>
+<a href="https://www.docker.com/" title="Docker"><img src="images/icon8-docker.svg"/></a>
+<a href="https://www.javascript.com/" title="Javascript"><img src="images/icons8-javascript.gif" height=48px/></a>
 <a href="https://www.gitlab.com/saphirevert" title="Gitlab"><img src="images/icons8-gitlab.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Github"><img src="images/icons8-github.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Ansible"><img src="images/icons8-ansible.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Kubernetes"><img src="images/icons8-kubernetes.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Git"><img src="images/icons8-git.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="React-native"><img src="images/icons8-react-native.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Angular"><img src="images/icons8-angularjs.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Vscode"><img src="images/icons8-vscode.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="MariaDB"><img src="images/icons8-mariadb.svg"/></a>
-<a href="https://www.gitlab.com/saphirevert" title="Nginx"><img src="images/icons8-nginx.svg"/></a>
+<a href="https://www.github.com/saphirevert" title="Github"><img src="images/icons8-github.svg"/></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="images/icons8-ansible.svg"/></a>
+<a href="https://kubernetes.io/fr/" title="Kubernetes"><img src="images/icons8-kubernetes.svg"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="images/icons8-git.svg"/></a>
+<a href="https://fr.reactjs.org/" title="React-native"><img src="images/icons8-react-native.svg"/></a>
+<a href="https://angular.io/" title="Angular"><img src="images/icons8-angularjs.svg"/></a>
+<a href="https://code.visualstudio.com/" title="Vscode"><img src="images/icons8-vscode.svg"/></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="images/icons8-mariadb.svg"/></a>
+<a href="https://www.nginx.com/" title="Nginx"><img src="images/icons8-nginx.svg"/></a>
 
 <!--START_SECTION:waka-->
 
