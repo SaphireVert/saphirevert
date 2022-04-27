@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Currently working at EPFL as an full-stack dev apprentice.
 
 <!--
