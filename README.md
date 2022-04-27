@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&ccolor=66F73A&lines=✨+Hello+everyone!+✨;Welcome+to+my+github+readme!)](https://git.io/typing-svg)
 
 [![SaphireVert's github stats](https://github-readme-stats.vercel.app/api?username=saphirevert)]
-          <!--START_SECTION:waka-->
+
 
 Technologies I'm working on
 [![simpleicon]("https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg")]
+
+<!--START_SECTION:waka-->
+
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/adafruit.svg"/>
 
 <!--END_SECTION:waka-->
