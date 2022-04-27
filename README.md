@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 Technologies I'm working on
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg">
 [![simpleicon]("https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg")]
 
 <!--START_SECTION:waka-->
