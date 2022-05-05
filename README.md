@@ -61,6 +61,11 @@ Technologies I'm currently working on :
 <!-- <a href="https://www.docker.com/" title="Adafruit"><img src="images/adafruit.svg" height="50px" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/gitlab.svg" height="50px" /></a> -->
 
+
+# $ Fun fact
+
+Did you know that in some cases a sapphire can be green ? This is due to the presence of iron in it.
+
 ## Contact me :
 
 <a href="mailto:saaphirevert" > </a>
