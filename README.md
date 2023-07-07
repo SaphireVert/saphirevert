@@ -68,12 +68,10 @@ Did you know that in some cases a sapphire can be green ? This is due to the pre
 
 ## Contact me :
 
-<a href="mailto:saaphirevert" > </a>
-<img src="gifs/email.gif">
+<a href="mailto:todo" > </a>
 <!-- <img src="gifs/dialing_progress.gif"> -->
 
 Thanks for visiting !
 
 ![visitor count](https://profile-counter.glitch.me/saphirevert/count.svg)
 
-<img src="gifs/ie.jpg">
